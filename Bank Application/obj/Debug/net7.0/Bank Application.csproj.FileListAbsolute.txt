@@ -1,0 +1,24 @@
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank Application.exe
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank Application.deps.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank Application.runtimeconfig.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank Application.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank App.Core.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\BankApp.Data.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\Bank App.Core.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\bin\Debug\net7.0\BankApp.Data.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.csproj.CopyComplete
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\refint\Bank Application.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\Bank Application.genruntimeconfig.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\Bank Application\obj\Debug\net7.0\ref\Bank Application.dll

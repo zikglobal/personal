@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "addr7iHKUnGKrJ9Tvpb+WPDQXA8Bp+yBZZbTHbXToPAhbRV50Q/feCnBa38ZSEJdSecXmJnnH3eYBSQKG5S89w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon Laptop\\Desktop\\My Task Local Repo\\My Bank App\\Bank Application\\Bank Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon Laptop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

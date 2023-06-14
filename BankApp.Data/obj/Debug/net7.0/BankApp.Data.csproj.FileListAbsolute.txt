@@ -1,0 +1,12 @@
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\bin\Debug\net7.0\BankApp.Data.deps.json
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\bin\Debug\net7.0\BankApp.Data.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\bin\Debug\net7.0\BankApp.Data.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\refint\BankApp.Data.dll
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\BankApp.Data.pdb
+C:\Users\Decagon Laptop\Desktop\My Task Local Repo\My Bank App\BankApp.Data\obj\Debug\net7.0\ref\BankApp.Data.dll
